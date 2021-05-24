@@ -1,6 +1,8 @@
-# Observatorio de Inteligencia Artificial del Global Shapers Hub de Buenos Aires
+## Observatorio de Inteligencia Artificial
 
-![asd](https://github.com/Global-Shapers-Buenos-Aires/OIA/raw/master/GS_OIA.png)
+
+<center><img src="https://github.com/Global-Shapers-Buenos-Aires/OIA/raw/master/GS_OIA.png" alt="OIA_GSBA" width="300"/></center>
+
 
 El OIA busca facilitar el mundo de la ciencia de datos y la Inteligencia Artificial al Hub de Buenos Aires y su entorno. Entre sus tareas se encuentra:
 
@@ -8,12 +10,11 @@ El OIA busca facilitar el mundo de la ciencia de datos y la Inteligencia Artific
 - Compartir recursos y herramientas al Hub y al resto de la red Global Shapers
 - Difundir sobre actores trabajando en el área, y conocimiento técnico mediante publicaciones y eventos online
 
-
 En este repositorio pueden encontrar:
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Global-Shapers-Buenos-Aires/OIA/blob/master/twitter_social_listening.ipynb) Ejemplo de Social Listening en Twitter: se buscan tweets por usuario o hashtags, vectorizan vía Sentence Transformers, aplica reducción de dimensionalidad por UMAP, y clusteriza para encontrar tópicos. Word Cloud, y Sentiment Analysis. 
+- Ejemplo de Social Listening en Twitter: se buscan tweets por usuario o hashtags, vectorizan vía Sentence Transformers, aplica reducción de dimensionalidad por UMAP, y clusteriza para encontrar tópicos. Word Cloud, y Sentiment Analysis. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Global-Shapers-Buenos-Aires/OIA/blob/master/twitter_social_listening.ipynb) 
 
-- /TwitterBought:
+- **/TwitterBought**:
 Proyecto encabezado por Sabri y desarrollado por el OIA, que consiste en un bot de twitter que disponibiliza la información de las últimas licitaciones del 
 Estado Nacional y de la Ciudad de Buenos Aires en un formato cómodo y accesible.
     - /compr.ar.ipynb: jupyter notebook que scrapea comprar.gob.ar 
@@ -24,4 +25,5 @@ Estado Nacional y de la Ciudad de Buenos Aires en un formato cómodo y accesible
 https://drive.google.com/drive/folders/1ByIIMfB75O3FeUHl7Nc8JLaphAyQskgh
 
 ## Notas OIA 2021:
-https://docs.google.com/document/d/113msd9gc5hG-0qKbzhiwi-jZa0pouHq6LCbcOOmUvak/edit
+
+https://docs.google.com/document/d/113msd9gc5hG-0qKbzhiwi-jZa0pouHq6LCbcOOmUvak/
