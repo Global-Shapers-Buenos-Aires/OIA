@@ -1,7 +1,9 @@
 ## Observatorio de Inteligencia Artificial
 
 
-<center><img src="https://github.com/Global-Shapers-Buenos-Aires/OIA/raw/master/GS_OIA.png" alt="OIA_GSBA" width="300"/></center>
+<p align="center">
+<img src="https://github.com/Global-Shapers-Buenos-Aires/OIA/raw/master/GS_OIA.png" alt="OIA_GSBA" width="300"/>
+</p>
 
 
 El OIA busca facilitar el mundo de la ciencia de datos y la Inteligencia Artificial al Hub de Buenos Aires y su entorno. Entre sus tareas se encuentra:
