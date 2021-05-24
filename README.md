@@ -1,5 +1,7 @@
 # Observatorio de Inteligencia Artificial del Global Shapers Hub de Buenos Aires
 
+![asd](https://github.com/Global-Shapers-Buenos-Aires/OIA/raw/master/GS_OIA.png)
+
 El OIA busca facilitar el mundo de la ciencia de datos y la Inteligencia Artificial al Hub de Buenos Aires y su entorno. Entre sus tareas se encuentra:
 
 - Dar apoyo técnico a los proyectos del Hub
